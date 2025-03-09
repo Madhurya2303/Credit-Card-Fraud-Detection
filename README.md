@@ -4,13 +4,6 @@ Understood! Since your notebook uses **undersampling** instead of SMOTE, here’
 
 ---
 
-# **Credit Card Fraud Detection**  
-
-## **Description**  
-This project focuses on detecting fraudulent credit card transactions using machine learning models. Since fraud cases are significantly fewer than legitimate transactions, an **undersampling** technique is used to balance the dataset and improve model performance.  
-
-The notebook was developed in **Google Colab**, leveraging cloud-based resources for efficient computation.  
-
 ## **Dataset**  
 - **Source:** (e.g., Kaggle’s "Credit Card Fraud Detection" dataset)  
 - **Features:** 28 principal components (PCA-transformed) + `Time` and `Amount`  
